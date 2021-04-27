@@ -1,0 +1,9 @@
+/home/igor/Projects/JSIntegration/JSIntegration/bin/Release/netstandard2.0/JSIntegration.deps.json
+/home/igor/Projects/JSIntegration/JSIntegration/bin/Release/netstandard2.0/JSIntegration.dll
+/home/igor/Projects/JSIntegration/JSIntegration/bin/Release/netstandard2.0/JSIntegration.pdb
+/home/igor/Projects/JSIntegration/JSIntegration/obj/Release/netstandard2.0/JSIntegration.AssemblyInfoInputs.cache
+/home/igor/Projects/JSIntegration/JSIntegration/obj/Release/netstandard2.0/JSIntegration.AssemblyInfo.cs
+/home/igor/Projects/JSIntegration/JSIntegration/obj/Release/netstandard2.0/JSIntegration.csproj.CoreCompileInputs.cache
+/home/igor/Projects/JSIntegration/JSIntegration/obj/Release/netstandard2.0/JSIntegration.dll
+/home/igor/Projects/JSIntegration/JSIntegration/obj/Release/netstandard2.0/JSIntegration.pdb
+/home/igor/Projects/JSIntegration/JSIntegration/obj/Release/netstandard2.0/JSIntegration.csprojAssemblyReference.cache
